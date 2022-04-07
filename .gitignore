@@ -1,0 +1,8 @@
+# contracts build
+build
+
+# 3rd part dependencies
+node_modules
+
+# environment variables
+.env
